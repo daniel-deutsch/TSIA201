@@ -21,12 +21,12 @@
     ```
 4. Create the input folder manually and place there the file named "caravan_48khz.wav":
     ```
-    ./inputs/caravan_48khz.wav
+    mkdir .\inputs
     ```
 5. Create the output folders manually:
     ```
-    mkdir ./outputs/figures
-    mkdir ./outputs/sounds
+    mkdir .\outputs\figures
+    mkdir .\outputs\sounds
     ```
 6. Enjoy the code :)
 
