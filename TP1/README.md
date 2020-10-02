@@ -32,7 +32,7 @@
 
 Obs: if pyaudio doesn't work at first you might have to do the following:
 
-    ```
-    pip install pipwin
-    pipwin install pyaudio
-    ```
+```
+pip install pipwin
+pipwin install pyaudio
+```
